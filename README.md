@@ -1,10 +1,10 @@
 # PortafolioMetodosNumericos
 
-#3Nombre Del Alumno 
-###Agustin Cruz Everardo Alvaro
+#Nombre Del Alumno 
+**Agustin Cruz Everardo Alvaro
 
 #installar librerias 
-##pip install numpy
-##pip install matplotlib
+**pip install numpy
+**pip install matplotlib
 
 
